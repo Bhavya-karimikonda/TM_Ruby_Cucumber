@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="0" errors="0" skipped="0" tests="2" time="17.959093" name="Browserstack test">
+<testcase classname="Browserstack test" name="Can add the product in cart" time="7.320864">
+  <system-out>
+    <![CDATA[LOG IN
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+<testcase classname="Browserstack test" name="Search Wikipedia" time="10.638229">
+  <system-out>
+    <![CDATA[]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>
